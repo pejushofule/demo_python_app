@@ -94,7 +94,7 @@ st.set_page_config(
 )
 
 # Main title
-st.title("👥 User Management System")
+st.title("👥 Banking Management System")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
